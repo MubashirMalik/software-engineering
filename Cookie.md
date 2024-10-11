@@ -1,7 +1,7 @@
 # Cookies
 - small pieces of data
 - used as a medium of storage in browser 
-- send to the server with each request (automatically)
+- sent to the server with each request (automatically)
 - Uses:
     - user personalization (language, settings)
     - session management (what keeps you login?)
